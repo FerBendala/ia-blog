@@ -1,0 +1,17 @@
+{
+	"name": "ghost-scripts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@tryghost/admin-api": "^1.13.12",
+		"axios": "^1.7.7",
+		"cohere-ai": "^7.13.2"
+	}
+}
